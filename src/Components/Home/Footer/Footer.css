@@ -1,0 +1,29 @@
+.footer-container{
+    background:#FBD062;
+    padding:50px;
+
+}
+.footer h1{
+    font-size:34px;
+}
+.footer small{
+    font-size:14px;
+}
+@media only screen and (max-width:767px){
+    .footer-container{
+        padding:50px 0;
+    }
+    .footer{
+        margin:auto;
+        text-align:center;
+
+    }
+    .footer h1{
+        font-size:30px;
+    }
+    .footer small{
+        display:block;
+        text-align:center;
+        margin-bottom:60px;
+    }
+}

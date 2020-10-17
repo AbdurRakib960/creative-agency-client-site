@@ -1,0 +1,20 @@
+.admin-service-list-container{
+    box-shadow:-1px -1px 2px whitesmoke;
+    border-radius:10px;
+    padding:20px
+}
+.admin-service-list-table-head th{
+    font-weight:300;
+    
+  
+}
+.admin-service-list-table-head tr{
+   box-sizing:none;
+   border:none;
+    background:#eff1f7;
+
+}
+.admin-service-list-table{
+    font-size:16px;
+   
+}

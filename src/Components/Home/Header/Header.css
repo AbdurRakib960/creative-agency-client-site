@@ -1,0 +1,40 @@
+.header-font{
+    font-size:48px;
+}
+
+@media only screen and (max-width:460px){
+    .header-img{
+        padding-top:80px;
+    }
+    .header-font{
+        margin-top:50px;
+        font-size:8vw;
+    }
+}
+
+@media only screen and (min-width:461px) and (max-width: 600px) {
+    .header-font {
+        font-size:5vw;
+        text-align:center; 
+        padding:0 50px;
+  
+    }
+    .hire-me{
+        display:none;
+    }
+    .header-img{
+        padding-top:40px;
+    }
+    
+  }
+@media only screen and (min-width:601px) and (max-width: 767px) {
+    .header-font {
+        font-size:5vw
+    }
+    .header-img{
+        width:80%;
+    }
+  }
+  .header-main-container{
+    margin-top:20px;
+}

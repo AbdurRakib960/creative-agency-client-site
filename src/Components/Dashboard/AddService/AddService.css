@@ -1,0 +1,33 @@
+input[type='file']{
+    height:30px;
+    width:140px;
+    position:absolute;
+    top:0;
+    left:0;
+    opacity:0;
+    
+
+  }
+
+.file-upload{
+    height:40px;
+    width:160px;
+    position:relative;
+    display:flex;
+    justify-content:center;
+    align-items: center; 
+    border:1px solid#009444;
+    border-radius:5px;
+    padding-left:10px;
+    margin-top:10px;
+    transition: all 1s;
+    color: #FFFFFF;
+    font-size:13px; 
+    
+}
+.add-service-form-container{
+    box-shadow:1px 1px 1px rgb(238, 235, 235), -1px -1px 1px rgb(238, 235, 235);
+    padding:30px;
+    border-radius:10px;
+    
+}
