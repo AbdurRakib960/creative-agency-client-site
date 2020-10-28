@@ -7,6 +7,8 @@
 * An admin can add a service and maintain order. <br>
 * A customer can submit an order and review it. <br>
 * Authentication service is enabled. Only a logged in user can add a service. <br>
+* Firebase and JWT token are also used. So only a valid user can access or add a service. <br>
+
 * ### `Techonology :` React, React Router, Node.js, Express.js, MongoDB, Bootstrap, Firebase. Heroku. <br>
 ---
 
